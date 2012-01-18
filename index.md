@@ -9,5 +9,7 @@ Ok, until I would add some style, consider those ideas _naked_ :)
 Here would be a list of them:
 
 {% for post in site.posts %}
-- [{{ post.title }}]({{ site.url }}{{ post.url | remove_first: '/' }})
+- [{{ post.title }}]({{ site.url }}{{ post.url | remove_first:'/' }})
 {% endfor %}
+
+asd

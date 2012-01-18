@@ -1,6 +1,6 @@
 {% include html-head.html %}
 
-# {{ page.url }}
+# {{ page.title }}
 
 {{ content }}
 

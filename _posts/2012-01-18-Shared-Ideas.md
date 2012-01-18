@@ -1,5 +1,6 @@
 ---
 layout: idea
+title: Shared Ideas
 ---
 
 Ok, so here is a meta-idea. I need to create a project, where I could post some ideas that I don't have time (or skills) to implement.

@@ -8,6 +8,6 @@ Ok, until I would add some style, consider those ideas _naked_ :)
 
 Here would be a list of them:
 
-{% for post in pages.posts %}
+{% for post in site.posts %}
     - [{{ post.title }}]({{ post.url }})
 {% endfor %}

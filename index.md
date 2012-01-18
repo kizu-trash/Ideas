@@ -11,5 +11,3 @@ Here would be a list of them:
 {% for post in site.posts %}
 - [{{ post.title }}]({{ site.url }}{{ post.url | remove_first:'/' }})
 {% endfor %}
-
-asd

@@ -1,6 +1,6 @@
 {% include html-head.html %}
 
-# {{ page.title }}
+<h1>{{ page.title }}</h1>
 
 {{ content }}
 
